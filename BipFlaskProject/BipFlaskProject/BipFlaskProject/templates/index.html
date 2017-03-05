@@ -13,7 +13,7 @@
         <a id="dquote-source"></a>
     </div>
     <div class="col-md-4">
-        <h4 id="rsquote-title">Ron Swanson</h4>
+        <h4 id="rsquote-title"></h4>
         <p id="rsquote-content"></p>
     </div>
     <div class="col-md-4">
@@ -40,7 +40,14 @@
             },
             cache: false
         });
-        
+        $.ajax({
+            url: "http://ron-swanson-quotes.herokuapp.com/v2/quotes",
+            data: function (data) {
+                var quote = data[0];
+                $('#rsquote-title').text('Ron Swanson');
+                $('#rsquote-content').html(quote);
+            }
+        });
     });
 </script>
 
