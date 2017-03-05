@@ -46,6 +46,7 @@
     <Folder Include="BipFlaskProject\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="BipFlaskProject\static\content\N7Chip.png" />
     <Content Include="requirements.txt" />
     <Content Include="BipFlaskProject\static\content\bootstrap.css" />
     <Content Include="BipFlaskProject\static\content\bootstrap.min.css" />
