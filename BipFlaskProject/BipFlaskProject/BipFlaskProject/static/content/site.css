@@ -40,3 +40,8 @@ input[type="checkbox"].input-validation-error {
 .validation-summary-valid {
     display: none;
 }
+
+/* Custom CSS for BiP */
+.navbar-brand {
+    font-family: 'Titillium Web', sans-serif;
+}
