@@ -2,12 +2,10 @@ import RPi.GPIO as GPIO
 
 class LightSwitch(object):
     """Controls the light switch"""
-    signalPin = 4
-
     def __init__(self):
         self.lightState = 'Off'
         GPIO.setmode(GPIO.BCM)
-        GPIO.setup(signalPin, GPIO.OUT)
+        GPIO.setup(4, GPIO.OUT)
 
     def ChangeLightState(self):
         if self.lightState == 'On':
@@ -18,10 +16,10 @@ class LightSwitch(object):
 
     def TurnOffSwitch(self):
         print 'Switch is off'
-        GPIO.output(signalPin, False)
+        GPIO.output(4, False)
         return 'Off'
 
     def TurnOnSwitch(self):
         print 'Switch is on'
-        GPIO.output(signalPin, True)
+        GPIO.output(4, True)
         return 'On'
