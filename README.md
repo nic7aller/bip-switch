@@ -1,1 +1,2 @@
-# bip-switch
+# BiP Switch Project
+The BiP (Web Pi) Switch Project is a switch for your smart home. The switch can be controlled via its Raspberry Pi and touchscreen interface or even through a browser on your internet-connected device when on the WiFi network. Built with the Flask framework, the Raspberry Pi runs a Python program that creates a web server allowing users to turn on or off the switch and even get a good quote from Quotes on Design.
