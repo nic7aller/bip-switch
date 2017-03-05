@@ -13,8 +13,9 @@
         <a id="dquote-source"></a>
     </div>
     <div class="col-md-4">
-        <h4 id="rsquote-title"></h4>
-        <p id="rsquote-content"></p>
+        <h4 id="riseset-title"></h4>
+        <p id="sunrise-time"></p>
+        <p id="sunset-time"></p>
     </div>
     <div class="col-md-4">
         
@@ -41,11 +42,12 @@
             cache: false
         });
         $.ajax({
-            url: "http://ron-swanson-quotes.herokuapp.com/v2/quotes",
+            url: "http://api.sunrise-sunset.org/json?lat=40.004048&lng=-83.015942&callback=mycallback",
             data: function (data) {
-                var quote = data[0];
-                $('#rsquote-title').text('Ron Swanson');
-                $('#rsquote-content').html(quote);
+                var results = data['results'];
+                $('#riseset-title').text('Sunrise/Sunset');
+                $('#sunrise-time').html('Sunrise : ' + results['sunrise']);
+                $('#sunset-time').html('Sunset : ' + results['sunset']);
             }
         });
     });
