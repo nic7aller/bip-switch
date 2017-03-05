@@ -8,14 +8,13 @@
 
 <div class="row">
     <div class="col-md-4">
+        <h4 id="weather-title">Current Weather</h4>
+        <p id="weather-content">{{ weather }}</p>
+    </div>
+    <div class="col-md-4">
         <h4 id="dquote-title"></h4>
         <p id="dquote-content"></p>
         <a id="dquote-source"></a>
-    </div>
-    <div class="col-md-4">
-        <h4 id="riseset-title"></h4>
-        <p id="sunrise-time"></p>
-        <p id="sunset-time"></p>
     </div>
     <div class="col-md-4">
         
@@ -40,15 +39,6 @@
                 }
             },
             cache: false
-        });
-        $.ajax({
-            url: "http://api.sunrise-sunset.org/json?lat=40.004048&lng=-83.015942&callback=mycallback",
-            success: function (data) {
-                var results = data['results'];
-                $('#riseset-title').text('Sunrise/Sunset');
-                $('#sunrise-time').html('Sunrise : ' + results['sunrise']);
-                $('#sunset-time').html('Sunset : ' + results['sunset']);
-            }
         });
     });
 </script>
