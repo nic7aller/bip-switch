@@ -22,7 +22,6 @@ def about():
     """Renders the about page."""
     return render_template(
         'about.html',
-        message = 'Your application description page.'
     )
 
 @app.route('/TurnSwitch')
