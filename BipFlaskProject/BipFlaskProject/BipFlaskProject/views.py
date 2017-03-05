@@ -20,11 +20,12 @@ def home():
     """Renders the home page."""
     forecast = forecastio.load_forecast(api_key, lat, lng)
     temp = str(forecast.currently().temperature)
+    chance = str(forecast.currently().precipProbability)
     return render_template(
         'index.html',
         state = lightSwitch.lightState,
         weather = forecast.currently().summary + ', ' + temp + '&deg;F',
-        precip = forecast.currently().precipProbability + '%'
+        precip = chance + '%'
     )
 
 @app.route('/about')
@@ -40,9 +41,10 @@ def turnSwitch():
     lightSwitch.ChangeLightState()
     forecast = forecastio.load_forecast(api_key, lat, lng)
     temp = str(forecast.currently().temperature)
+    chance = str(forecast.currently().precipProbability)
     return render_template(
         'index.html',
         state = lightSwitch.lightState,
         weather = forecast.currently().summary + ', ' + temp + '&deg;F',
-        precip = forecast.currently().precipProbability + '%'
+        precip = chance + '%'
     )
