@@ -45,6 +45,6 @@ def turnSwitch():
     return render_template(
         'index.html',
         state = lightSwitch.lightState,
-        weather = forecast.currently().summary + ', ' + temp + '&deg;F',
+        weather = forecast.currently().summary + ', ' + temp,
         precip = chance + '%'
     )
