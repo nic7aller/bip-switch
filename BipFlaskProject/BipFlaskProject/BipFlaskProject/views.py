@@ -24,7 +24,7 @@ def home():
         'index.html',
         state = lightSwitch.lightState,
         weather = forecast.currently().summary + ', ' + temp + '&deg;F',
-        precip = forecast.currently().precipProbability
+        precip = forecast.currently().precipProbability + '%'
     )
 
 @app.route('/about')
@@ -43,6 +43,6 @@ def turnSwitch():
     return render_template(
         'index.html',
         state = lightSwitch.lightState,
-        weather = forecast.currently().icon + forecast.currently().summary + ', ' + temp,
-        precip = forecast.currently().precipProbability
+        weather = forecast.currently().summary + ', ' + temp + '&deg;F',
+        precip = forecast.currently().precipProbability + '%'
     )
