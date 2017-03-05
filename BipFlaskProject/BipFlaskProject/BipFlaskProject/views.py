@@ -12,17 +12,18 @@ lightSwitch = LightSwitch()
 api_key = "e59dd0570c87555e9219188605bb324c"
 lat = -31.967819
 lng = 40.00404
-
 forecast = forecastio.load_forecast(api_key, lat, lng)
 
 @app.route('/')
 @app.route('/home')
 def home():
     """Renders the home page."""
+    forecast = forecast.update()
     return render_template(
         'index.html',
         state = lightSwitch.lightState,
-        weather = forecast.currently().summary
+        weather = forecast.currently().icon + forecast.currently().summary + ', ' +forecast.currently().temperature,
+        precip = forecast.currently().precipProbability
     )
 
 @app.route('/about')
@@ -36,8 +37,10 @@ def about():
 def turnSwitch():
     """Turns on or off switch"""
     lightSwitch.ChangeLightState()
+    forecast = forecast.update()
     return render_template(
         'index.html',
         state = lightSwitch.lightState,
-        weather = forecast.currently().summary
+        weather = forecast.currently().icon + forecast.currently().summary + ', ' +forecast.currently().temperature,
+        precip = forecast.currently().precipProbability
     )
