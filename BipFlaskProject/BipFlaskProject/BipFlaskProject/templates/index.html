@@ -43,7 +43,7 @@
         });
         $.ajax({
             url: "http://api.sunrise-sunset.org/json?lat=40.004048&lng=-83.015942&callback=mycallback",
-            data: function (data) {
+            success: function (data) {
                 var results = data['results'];
                 $('#riseset-title').text('Sunrise/Sunset');
                 $('#sunrise-time').html('Sunrise : ' + results['sunrise']);
