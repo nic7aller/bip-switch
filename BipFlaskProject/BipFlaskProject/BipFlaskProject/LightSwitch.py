@@ -16,13 +16,13 @@ class LightSwitch(object):
     def TurnOffSwitch(self):
         print 'Switch is off'
         #GPIO.setmode(GPIO.BCM)
-        #GPIO.setup(2, GPIO.OUT)
-        #GPIO.output(2, True)
+        #GPIO.setup(7, GPIO.OUT)
+        #GPIO.output(7, True)
         return 'Off'
 
     def TurnOnSwitch(self):
         print 'Switch is on'
         #GPIO.setmode(GPIO.BCM)
-        #GPIO.setup(2, GPIO.OUT)
-        #GPIO.output(2, False)
+        #GPIO.setup(7, GPIO.OUT)
+        #GPIO.output(7, False)
         return 'On'

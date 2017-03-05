@@ -8,12 +8,14 @@
 
 <div class="row">
     <div class="col-md-4">
-        <h2 id="quote-title"></h2>
-        <p id="quote-content"></p>
-        <a id="quote-source"></a>
+        <h4 id="dquote-title"></h4>
+        <p id="dquote-content"></p>
+        <a id="dquote-source"></a>
     </div>
     <div class="col-md-4">
-        
+        <h4 id="quote-title"></h4>
+        <p id="quote-content"></p>
+        <a id="quote-source"></a>
     </div>
     <div class="col-md-4">
         
@@ -22,19 +24,30 @@
 
 <script>
     $(document).ready( function() {
+        // From Quotes On Design
         $.ajax({
             url: 'http://quotesondesign.com/wp-json/posts?filter[orderby]=rand&filter[posts_per_page]=1',
             success: function (data) {
                 var post = data.shift(); // The data is an array of posts. Grab the first one.
-                $('#quote-title').text(post.title);
-                $('#quote-content').html(post.content);
+                $('#dquote-title').text(post.title);
+                $('#dquote-content').html(post.content);
 
                 // If the Source is available, use it. Otherwise hide it.
                 if (typeof post.custom_meta !== 'undefined' && typeof post.custom_meta.Source !== 'undefined') {
-                    $('#quote-source').html('Source:' + post.custom_meta.Source);
+                    $('#dquote-source').html('Source:' + post.custom_meta.Source);
                 } else {
-                    $('#quote-source').text('');
+                    $('#dquote-source').text('');
                 }
+            },
+            cache: false
+        });
+        $.ajax({
+            url: 'http://api.forismatic.com/api/1.0/method=getQuote&key=457653&format=json&lang=en',
+            success: function (data) {
+                var quote = data['quote'];
+                $('#quote-title').text(quote['senderName']);
+                $('#quote-content').html(quote['senderName']);
+                $('#quote-source').html('Source:' + quote['senderLink']);
             },
             cache: false
         });
