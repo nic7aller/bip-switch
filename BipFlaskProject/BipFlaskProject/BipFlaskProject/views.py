@@ -23,7 +23,7 @@ def home():
     return render_template(
         'index.html',
         state = lightSwitch.lightState,
-        weather = forecast.currently().icon + forecast.currently().summary + ', ' + temp,
+        weather = forecast.currently().summary + ', ' + temp + '&deg;F',
         precip = forecast.currently().precipProbability
     )
 
