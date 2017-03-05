@@ -45,9 +45,9 @@
             url: 'http://api.forismatic.com/api/1.0/method=getQuote&key=457653&format=json&lang=en',
             success: function (data) {
                 var quote = data['quote'];
-                $('#quote-title').text(quote['senderName']);
-                $('#quote-content').html(quote['senderName']);
-                $('#quote-source').html('Source:' + quote['senderLink']);
+                $('#quote-title').text(quote[senderName]);
+                $('#quote-content').html(quote[quoteText]);
+                $('#quote-source').html('Source:' + quote[senderLink]);
             },
             cache: false
         });
