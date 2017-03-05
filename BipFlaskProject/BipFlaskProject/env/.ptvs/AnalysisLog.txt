@@ -1472,3 +1472,350 @@ System.FormatException: Input string was not in a correct format.
 2017-03-04T17:26:21: [WARNING] Library was set explicitly - skipping path detection
 2017-03-04T17:26:21: IncludeModulesFromModulePath = win32com
 2017-03-04T17:26:21: Deleting 0 files
+
+2017-03-05T00:10:25: Start analysis
+2017-03-05T00:10:25: [WARNING] Library was set explicitly - skipping path detection
+2017-03-05T00:10:25: IncludeModulesFromModulePath = win32com
+2017-03-05T00:10:25: Deleting 598 files
+2017-03-05T00:10:26: Scraping builtin modules
+2017-03-05T00:10:26: Command: C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Scripts\python.exe "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\PythonScraper.py" C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\.ptvs\ "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\\"
+2017-03-05T00:10:28: Output
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\__builtin__.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_codecs.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_collections.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_functools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_heapq.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_io.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_locale.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_md5.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_random.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha256.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sha512.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_sre.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_struct.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_subprocess.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_warnings.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_weakref.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\_winreg.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\array.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\binascii.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cPickle.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cStringIO.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\cmath.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\datetime.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\errno.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\exceptions.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\future_builtins.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\gc.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\imp.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\itertools.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\marshal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\math.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\mmap.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\msvcrt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\nt.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\operator.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\signal.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\sys.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\thread.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\time.idb
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.2\CompletionDB\xxsubtype.idb
+2017-03-05T00:10:28: Scraped builtin modules
+2017-03-05T00:10:28: astropy.CallDepth = 0
+2017-03-05T00:10:28: matplotlib.CallDepth = 3
+2017-03-05T00:10:28: pandas.CallDepth = 0
+2017-03-05T00:10:28: sympy.CallDepth = 0
+2017-03-05T00:10:28: Start group "C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\" with 143 files
+2017-03-05T00:10:29: Parsing "abc" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\abc.py")
+2017-03-05T00:10:30: Parsing "codecs" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\codecs.py")
+2017-03-05T00:10:30: Parsing "copy_reg" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\copy_reg.py")
+2017-03-05T00:10:30: Parsing "fnmatch" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\fnmatch.py")
+2017-03-05T00:10:30: Parsing "genericpath" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\genericpath.py")
+2017-03-05T00:10:30: Parsing "linecache" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\linecache.py")
+2017-03-05T00:10:30: Parsing "locale" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\locale.py")
+2017-03-05T00:10:30: Parsing "ntpath" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\ntpath.py")
+2017-03-05T00:10:30: Parsing "os" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\os.py")
+2017-03-05T00:10:30: Parsing "posixpath" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\posixpath.py")
+2017-03-05T00:10:30: Parsing "re" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\re.py")
+2017-03-05T00:10:30: Parsing "site" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\site.py")
+2017-03-05T00:10:30: Parsing "sre" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\sre.py")
+2017-03-05T00:10:30: Parsing "sre_compile" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\sre_compile.py")
+2017-03-05T00:10:30: Parsing "sre_constants" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\sre_constants.py")
+2017-03-05T00:10:30: Parsing "sre_parse" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\sre_parse.py")
+2017-03-05T00:10:30: Parsing "stat" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\stat.py")
+2017-03-05T00:10:30: Parsing "types" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\types.py")
+2017-03-05T00:10:30: Parsing "UserDict" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\UserDict.py")
+2017-03-05T00:10:30: Parsing "warnings" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\warnings.py")
+2017-03-05T00:10:30: Parsing "_abcoll" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\_abcoll.py")
+2017-03-05T00:10:30: Parsing "_weakrefset" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\_weakrefset.py")
+2017-03-05T00:10:30: Parsing "distutils" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\distutils\__init__.py")
+2017-03-05T00:10:30: Parsing "encodings.aliases" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\aliases.py")
+2017-03-05T00:10:30: Parsing "encodings.ascii" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\ascii.py")
+2017-03-05T00:10:30: Parsing "encodings.base64_codec" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\base64_codec.py")
+2017-03-05T00:10:30: Parsing "encodings.big5" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\big5.py")
+2017-03-05T00:10:30: Parsing "encodings.big5hkscs" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\big5hkscs.py")
+2017-03-05T00:10:30: Parsing "encodings.bz2_codec" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\bz2_codec.py")
+2017-03-05T00:10:30: Parsing "encodings.charmap" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\charmap.py")
+2017-03-05T00:10:30: Parsing "encodings.cp037" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp037.py")
+2017-03-05T00:10:30: Parsing "encodings.cp1006" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp1006.py")
+2017-03-05T00:10:30: Parsing "encodings.cp1026" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp1026.py")
+2017-03-05T00:10:30: Parsing "encodings.cp1140" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp1140.py")
+2017-03-05T00:10:30: Parsing "encodings.cp1250" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp1250.py")
+2017-03-05T00:10:30: Parsing "encodings.cp1251" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp1251.py")
+2017-03-05T00:10:30: Parsing "encodings.cp1252" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp1252.py")
+2017-03-05T00:10:30: Parsing "encodings.cp1253" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp1253.py")
+2017-03-05T00:10:30: Parsing "encodings.cp1254" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp1254.py")
+2017-03-05T00:10:30: Parsing "encodings.cp1255" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp1255.py")
+2017-03-05T00:10:30: Parsing "encodings.cp1256" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp1256.py")
+2017-03-05T00:10:30: Parsing "encodings.cp1257" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp1257.py")
+2017-03-05T00:10:30: Parsing "encodings.cp1258" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp1258.py")
+2017-03-05T00:10:30: Parsing "encodings.cp424" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp424.py")
+2017-03-05T00:10:30: Parsing "encodings.cp437" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp437.py")
+2017-03-05T00:10:30: Parsing "encodings.cp500" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp500.py")
+2017-03-05T00:10:30: Parsing "encodings.cp720" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp720.py")
+2017-03-05T00:10:30: Parsing "encodings.cp737" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp737.py")
+2017-03-05T00:10:30: Parsing "encodings.cp775" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp775.py")
+2017-03-05T00:10:30: Parsing "encodings.cp850" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp850.py")
+2017-03-05T00:10:30: Parsing "encodings.cp852" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp852.py")
+2017-03-05T00:10:30: Parsing "encodings.cp855" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp855.py")
+2017-03-05T00:10:30: Parsing "encodings.cp856" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp856.py")
+2017-03-05T00:10:30: Parsing "encodings.cp857" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp857.py")
+2017-03-05T00:10:30: Parsing "encodings.cp858" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp858.py")
+2017-03-05T00:10:30: Parsing "encodings.cp860" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp860.py")
+2017-03-05T00:10:30: Parsing "encodings.cp861" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp861.py")
+2017-03-05T00:10:30: Parsing "encodings.cp862" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp862.py")
+2017-03-05T00:10:30: Parsing "encodings.cp863" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp863.py")
+2017-03-05T00:10:30: Parsing "encodings.cp864" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp864.py")
+2017-03-05T00:10:30: Parsing "encodings.cp865" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp865.py")
+2017-03-05T00:10:30: Parsing "encodings.cp866" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp866.py")
+2017-03-05T00:10:30: Parsing "encodings.cp869" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp869.py")
+2017-03-05T00:10:30: Parsing "encodings.cp874" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp874.py")
+2017-03-05T00:10:30: Parsing "encodings.cp875" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp875.py")
+2017-03-05T00:10:30: Parsing "encodings.cp932" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp932.py")
+2017-03-05T00:10:30: Parsing "encodings.cp949" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp949.py")
+2017-03-05T00:10:30: Parsing "encodings.cp950" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\cp950.py")
+2017-03-05T00:10:30: Parsing "encodings.euc_jisx0213" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\euc_jisx0213.py")
+2017-03-05T00:10:30: Parsing "encodings.euc_jis_2004" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\euc_jis_2004.py")
+2017-03-05T00:10:30: Parsing "encodings.euc_jp" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\euc_jp.py")
+2017-03-05T00:10:30: Parsing "encodings.euc_kr" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\euc_kr.py")
+2017-03-05T00:10:30: Parsing "encodings.gb18030" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\gb18030.py")
+2017-03-05T00:10:30: Parsing "encodings.gb2312" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\gb2312.py")
+2017-03-05T00:10:30: Parsing "encodings.gbk" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\gbk.py")
+2017-03-05T00:10:30: Parsing "encodings.hex_codec" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\hex_codec.py")
+2017-03-05T00:10:30: Parsing "encodings.hp_roman8" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\hp_roman8.py")
+2017-03-05T00:10:30: Parsing "encodings.hz" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\hz.py")
+2017-03-05T00:10:30: Parsing "encodings.idna" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\idna.py")
+2017-03-05T00:10:30: Parsing "encodings.iso2022_jp" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso2022_jp.py")
+2017-03-05T00:10:30: Parsing "encodings.iso2022_jp_1" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso2022_jp_1.py")
+2017-03-05T00:10:30: Parsing "encodings.iso2022_jp_2" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso2022_jp_2.py")
+2017-03-05T00:10:30: Parsing "encodings.iso2022_jp_2004" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso2022_jp_2004.py")
+2017-03-05T00:10:30: Parsing "encodings.iso2022_jp_3" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso2022_jp_3.py")
+2017-03-05T00:10:30: Parsing "encodings.iso2022_jp_ext" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso2022_jp_ext.py")
+2017-03-05T00:10:30: Parsing "encodings.iso2022_kr" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso2022_kr.py")
+2017-03-05T00:10:30: Parsing "encodings.iso8859_1" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso8859_1.py")
+2017-03-05T00:10:30: Parsing "encodings.iso8859_10" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso8859_10.py")
+2017-03-05T00:10:30: Parsing "encodings.iso8859_11" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso8859_11.py")
+2017-03-05T00:10:30: Parsing "encodings.iso8859_13" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso8859_13.py")
+2017-03-05T00:10:30: Parsing "encodings.iso8859_14" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso8859_14.py")
+2017-03-05T00:10:30: Parsing "encodings.iso8859_15" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso8859_15.py")
+2017-03-05T00:10:30: Parsing "encodings.iso8859_16" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso8859_16.py")
+2017-03-05T00:10:30: Parsing "encodings.iso8859_2" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso8859_2.py")
+2017-03-05T00:10:30: Parsing "encodings.iso8859_3" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso8859_3.py")
+2017-03-05T00:10:30: Parsing "encodings.iso8859_4" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso8859_4.py")
+2017-03-05T00:10:30: Parsing "encodings.iso8859_5" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso8859_5.py")
+2017-03-05T00:10:30: Parsing "encodings.iso8859_6" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso8859_6.py")
+2017-03-05T00:10:30: Parsing "encodings.iso8859_7" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso8859_7.py")
+2017-03-05T00:10:30: Parsing "encodings.iso8859_8" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso8859_8.py")
+2017-03-05T00:10:30: Parsing "encodings.iso8859_9" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\iso8859_9.py")
+2017-03-05T00:10:30: Parsing "encodings.johab" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\johab.py")
+2017-03-05T00:10:30: Parsing "encodings.koi8_r" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\koi8_r.py")
+2017-03-05T00:10:30: Parsing "encodings.koi8_u" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\koi8_u.py")
+2017-03-05T00:10:30: Parsing "encodings.latin_1" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\latin_1.py")
+2017-03-05T00:10:30: Parsing "encodings.mac_arabic" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\mac_arabic.py")
+2017-03-05T00:10:30: Parsing "encodings.mac_centeuro" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\mac_centeuro.py")
+2017-03-05T00:10:30: Parsing "encodings.mac_croatian" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\mac_croatian.py")
+2017-03-05T00:10:30: Parsing "encodings.mac_cyrillic" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\mac_cyrillic.py")
+2017-03-05T00:10:30: Parsing "encodings.mac_farsi" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\mac_farsi.py")
+2017-03-05T00:10:30: Parsing "encodings.mac_greek" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\mac_greek.py")
+2017-03-05T00:10:30: Parsing "encodings.mac_iceland" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\mac_iceland.py")
+2017-03-05T00:10:30: Parsing "encodings.mac_latin2" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\mac_latin2.py")
+2017-03-05T00:10:30: Parsing "encodings.mac_roman" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\mac_roman.py")
+2017-03-05T00:10:30: Parsing "encodings.mac_romanian" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\mac_romanian.py")
+2017-03-05T00:10:30: Parsing "encodings.mac_turkish" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\mac_turkish.py")
+2017-03-05T00:10:30: Parsing "encodings.mbcs" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\mbcs.py")
+2017-03-05T00:10:30: Parsing "encodings.palmos" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\palmos.py")
+2017-03-05T00:10:30: Parsing "encodings.ptcp154" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\ptcp154.py")
+2017-03-05T00:10:30: Parsing "encodings.punycode" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\punycode.py")
+2017-03-05T00:10:30: Parsing "encodings.quopri_codec" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\quopri_codec.py")
+2017-03-05T00:10:30: Parsing "encodings.raw_unicode_escape" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\raw_unicode_escape.py")
+2017-03-05T00:10:30: Parsing "encodings.rot_13" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\rot_13.py")
+2017-03-05T00:10:30: Parsing "encodings.shift_jis" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\shift_jis.py")
+2017-03-05T00:10:30: Parsing "encodings.shift_jisx0213" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\shift_jisx0213.py")
+2017-03-05T00:10:30: Parsing "encodings.shift_jis_2004" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\shift_jis_2004.py")
+2017-03-05T00:10:30: Parsing "encodings.string_escape" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\string_escape.py")
+2017-03-05T00:10:30: Parsing "encodings.tis_620" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\tis_620.py")
+2017-03-05T00:10:30: Parsing "encodings.undefined" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\undefined.py")
+2017-03-05T00:10:30: Parsing "encodings.unicode_escape" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\unicode_escape.py")
+2017-03-05T00:10:30: Parsing "encodings.unicode_internal" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\unicode_internal.py")
+2017-03-05T00:10:30: Parsing "encodings.utf_16" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\utf_16.py")
+2017-03-05T00:10:30: Parsing "encodings.utf_16_be" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\utf_16_be.py")
+2017-03-05T00:10:30: Parsing "encodings.utf_16_le" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\utf_16_le.py")
+2017-03-05T00:10:30: Parsing "encodings.utf_32" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\utf_32.py")
+2017-03-05T00:10:30: Parsing "encodings.utf_32_be" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\utf_32_be.py")
+2017-03-05T00:10:30: Parsing "encodings.utf_32_le" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\utf_32_le.py")
+2017-03-05T00:10:30: Parsing "encodings.utf_7" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\utf_7.py")
+2017-03-05T00:10:30: Parsing "encodings.utf_8" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\utf_8.py")
+2017-03-05T00:10:30: Parsing "encodings.utf_8_sig" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\utf_8_sig.py")
+2017-03-05T00:10:30: Parsing "encodings.uu_codec" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\uu_codec.py")
+2017-03-05T00:10:30: Parsing "encodings.zlib_codec" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\zlib_codec.py")
+2017-03-05T00:10:30: Parsing "encodings" ("C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\encodings\__init__.py")
+2017-03-05T00:10:30: Parsing complete
+2017-03-05T00:10:30: Analyzing "abc"
+2017-03-05T00:10:30: Analyzing "codecs"
+2017-03-05T00:10:30: Analyzing "copy_reg"
+2017-03-05T00:10:30: Analyzing "fnmatch"
+2017-03-05T00:10:30: Analyzing "genericpath"
+2017-03-05T00:10:30: Analyzing "linecache"
+2017-03-05T00:10:30: Analyzing "locale"
+2017-03-05T00:10:30: Analyzing "ntpath"
+2017-03-05T00:10:30: Analyzing "os"
+2017-03-05T00:10:30: Analyzing "posixpath"
+2017-03-05T00:10:30: Analyzing "re"
+2017-03-05T00:10:30: Analyzing "site"
+2017-03-05T00:10:30: Analyzing "sre"
+2017-03-05T00:10:30: Analyzing "sre_compile"
+2017-03-05T00:10:30: Analyzing "sre_constants"
+2017-03-05T00:10:30: Analyzing "sre_parse"
+2017-03-05T00:10:30: Analyzing "stat"
+2017-03-05T00:10:30: Analyzing "types"
+2017-03-05T00:10:30: Analyzing "UserDict"
+2017-03-05T00:10:30: Analyzing "warnings"
+2017-03-05T00:10:30: Analyzing "_abcoll"
+2017-03-05T00:10:30: Analyzing "_weakrefset"
+2017-03-05T00:10:30: Analyzing "distutils"
+2017-03-05T00:10:30: Analyzing "encodings.aliases"
+2017-03-05T00:10:30: Analyzing "encodings.ascii"
+2017-03-05T00:10:30: Analyzing "encodings.base64_codec"
+2017-03-05T00:10:30: Analyzing "encodings.big5"
+2017-03-05T00:10:30: Analyzing "encodings.big5hkscs"
+2017-03-05T00:10:30: Analyzing "encodings.bz2_codec"
+2017-03-05T00:10:30: Analyzing "encodings.charmap"
+2017-03-05T00:10:30: Analyzing "encodings.cp037"
+2017-03-05T00:10:30: Analyzing "encodings.cp1006"
+2017-03-05T00:10:30: Analyzing "encodings.cp1026"
+2017-03-05T00:10:30: Analyzing "encodings.cp1140"
+2017-03-05T00:10:30: Analyzing "encodings.cp1250"
+2017-03-05T00:10:30: Analyzing "encodings.cp1251"
+2017-03-05T00:10:30: Analyzing "encodings.cp1252"
+2017-03-05T00:10:30: Analyzing "encodings.cp1253"
+2017-03-05T00:10:30: Analyzing "encodings.cp1254"
+2017-03-05T00:10:30: Analyzing "encodings.cp1255"
+2017-03-05T00:10:30: Analyzing "encodings.cp1256"
+2017-03-05T00:10:30: Analyzing "encodings.cp1257"
+2017-03-05T00:10:30: Analyzing "encodings.cp1258"
+2017-03-05T00:10:30: Analyzing "encodings.cp424"
+2017-03-05T00:10:30: Analyzing "encodings.cp437"
+2017-03-05T00:10:30: Analyzing "encodings.cp500"
+2017-03-05T00:10:30: Analyzing "encodings.cp720"
+2017-03-05T00:10:30: Analyzing "encodings.cp737"
+2017-03-05T00:10:30: Analyzing "encodings.cp775"
+2017-03-05T00:10:30: Analyzing "encodings.cp850"
+2017-03-05T00:10:30: Analyzing "encodings.cp852"
+2017-03-05T00:10:30: Analyzing "encodings.cp855"
+2017-03-05T00:10:30: Analyzing "encodings.cp856"
+2017-03-05T00:10:30: Analyzing "encodings.cp857"
+2017-03-05T00:10:30: Analyzing "encodings.cp858"
+2017-03-05T00:10:30: Analyzing "encodings.cp860"
+2017-03-05T00:10:30: Analyzing "encodings.cp861"
+2017-03-05T00:10:30: Analyzing "encodings.cp862"
+2017-03-05T00:10:30: Analyzing "encodings.cp863"
+2017-03-05T00:10:30: Analyzing "encodings.cp864"
+2017-03-05T00:10:30: Analyzing "encodings.cp865"
+2017-03-05T00:10:30: Analyzing "encodings.cp866"
+2017-03-05T00:10:30: Analyzing "encodings.cp869"
+2017-03-05T00:10:30: Analyzing "encodings.cp874"
+2017-03-05T00:10:30: Analyzing "encodings.cp875"
+2017-03-05T00:10:30: Analyzing "encodings.cp932"
+2017-03-05T00:10:30: Analyzing "encodings.cp949"
+2017-03-05T00:10:30: Analyzing "encodings.cp950"
+2017-03-05T00:10:30: Analyzing "encodings.euc_jisx0213"
+2017-03-05T00:10:30: Analyzing "encodings.euc_jis_2004"
+2017-03-05T00:10:30: Analyzing "encodings.euc_jp"
+2017-03-05T00:10:30: Analyzing "encodings.euc_kr"
+2017-03-05T00:10:30: Analyzing "encodings.gb18030"
+2017-03-05T00:10:30: Analyzing "encodings.gb2312"
+2017-03-05T00:10:30: Analyzing "encodings.gbk"
+2017-03-05T00:10:30: Analyzing "encodings.hex_codec"
+2017-03-05T00:10:30: Analyzing "encodings.hp_roman8"
+2017-03-05T00:10:30: Analyzing "encodings.hz"
+2017-03-05T00:10:30: Analyzing "encodings.idna"
+2017-03-05T00:10:30: Analyzing "encodings.iso2022_jp"
+2017-03-05T00:10:30: Analyzing "encodings.iso2022_jp_1"
+2017-03-05T00:10:30: Analyzing "encodings.iso2022_jp_2"
+2017-03-05T00:10:30: Analyzing "encodings.iso2022_jp_2004"
+2017-03-05T00:10:30: Analyzing "encodings.iso2022_jp_3"
+2017-03-05T00:10:30: Analyzing "encodings.iso2022_jp_ext"
+2017-03-05T00:10:30: Analyzing "encodings.iso2022_kr"
+2017-03-05T00:10:30: Analyzing "encodings.iso8859_1"
+2017-03-05T00:10:30: Analyzing "encodings.iso8859_10"
+2017-03-05T00:10:30: Analyzing "encodings.iso8859_11"
+2017-03-05T00:10:30: Analyzing "encodings.iso8859_13"
+2017-03-05T00:10:30: Analyzing "encodings.iso8859_14"
+2017-03-05T00:10:30: Analyzing "encodings.iso8859_15"
+2017-03-05T00:10:30: Analyzing "encodings.iso8859_16"
+2017-03-05T00:10:30: Analyzing "encodings.iso8859_2"
+2017-03-05T00:10:30: Analyzing "encodings.iso8859_3"
+2017-03-05T00:10:30: Analyzing "encodings.iso8859_4"
+2017-03-05T00:10:30: Analyzing "encodings.iso8859_5"
+2017-03-05T00:10:30: Analyzing "encodings.iso8859_6"
+2017-03-05T00:10:30: Analyzing "encodings.iso8859_7"
+2017-03-05T00:10:30: Analyzing "encodings.iso8859_8"
+2017-03-05T00:10:30: Analyzing "encodings.iso8859_9"
+2017-03-05T00:10:30: Analyzing "encodings.johab"
+2017-03-05T00:10:30: Analyzing "encodings.koi8_r"
+2017-03-05T00:10:30: Analyzing "encodings.koi8_u"
+2017-03-05T00:10:30: Analyzing "encodings.latin_1"
+2017-03-05T00:10:30: Analyzing "encodings.mac_arabic"
+2017-03-05T00:10:30: Analyzing "encodings.mac_centeuro"
+2017-03-05T00:10:30: Analyzing "encodings.mac_croatian"
+2017-03-05T00:10:30: Analyzing "encodings.mac_cyrillic"
+2017-03-05T00:10:30: Analyzing "encodings.mac_farsi"
+2017-03-05T00:10:30: Analyzing "encodings.mac_greek"
+2017-03-05T00:10:30: Analyzing "encodings.mac_iceland"
+2017-03-05T00:10:30: Analyzing "encodings.mac_latin2"
+2017-03-05T00:10:30: Analyzing "encodings.mac_roman"
+2017-03-05T00:10:30: Analyzing "encodings.mac_romanian"
+2017-03-05T00:10:30: Analyzing "encodings.mac_turkish"
+2017-03-05T00:10:30: Analyzing "encodings.mbcs"
+2017-03-05T00:10:30: Analyzing "encodings.palmos"
+2017-03-05T00:10:30: Analyzing "encodings.ptcp154"
+2017-03-05T00:10:30: Analyzing "encodings.punycode"
+2017-03-05T00:10:30: Analyzing "encodings.quopri_codec"
+2017-03-05T00:10:30: Analyzing "encodings.raw_unicode_escape"
+2017-03-05T00:10:30: Analyzing "encodings.rot_13"
+2017-03-05T00:10:30: Analyzing "encodings.shift_jis"
+2017-03-05T00:10:30: Analyzing "encodings.shift_jisx0213"
+2017-03-05T00:10:30: Analyzing "encodings.shift_jis_2004"
+2017-03-05T00:10:30: Analyzing "encodings.string_escape"
+2017-03-05T00:10:30: Analyzing "encodings.tis_620"
+2017-03-05T00:10:30: Analyzing "encodings.undefined"
+2017-03-05T00:10:30: Analyzing "encodings.unicode_escape"
+2017-03-05T00:10:30: Analyzing "encodings.unicode_internal"
+2017-03-05T00:10:30: Analyzing "encodings.utf_16"
+2017-03-05T00:10:30: Analyzing "encodings.utf_16_be"
+2017-03-05T00:10:30: Analyzing "encodings.utf_16_le"
+2017-03-05T00:10:30: Analyzing "encodings.utf_32"
+2017-03-05T00:10:30: Analyzing "encodings.utf_32_be"
+2017-03-05T00:10:30: Analyzing "encodings.utf_32_le"
+2017-03-05T00:10:30: Analyzing "encodings.utf_7"
+2017-03-05T00:10:30: Analyzing "encodings.utf_8"
+2017-03-05T00:10:30: Analyzing "encodings.utf_8_sig"
+2017-03-05T00:10:30: Analyzing "encodings.uu_codec"
+2017-03-05T00:10:30: Analyzing "encodings.zlib_codec"
+2017-03-05T00:10:30: Analyzing "encodings"
+2017-03-05T00:10:30: Starting analysis of 143 modules
+2017-03-05T00:10:31: Analysis complete
+2017-03-05T00:10:31: Saving group "C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\"
+2017-03-05T00:10:32: End of group "C:\Users\Nicholas\Documents\GitHub\BipSwitch\BipFlaskProject\BipFlaskProject\env\Lib\"
+2017-03-05T00:10:33: Deleting 0 files

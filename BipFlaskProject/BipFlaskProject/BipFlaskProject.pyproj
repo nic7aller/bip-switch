@@ -71,7 +71,6 @@
     <Content Include="BipFlaskProject\static\scripts\respond.min.js" />
     <Content Include="BipFlaskProject\static\scripts\_references.js" />
     <Content Include="BipFlaskProject\templates\about.html" />
-    <Content Include="BipFlaskProject\templates\contact.html" />
     <Content Include="BipFlaskProject\templates\index.html" />
     <Content Include="BipFlaskProject\templates\layout.html" />
   </ItemGroup>
