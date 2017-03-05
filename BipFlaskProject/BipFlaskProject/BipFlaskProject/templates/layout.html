@@ -30,7 +30,11 @@
             </div>
         </div>
     </div>
-    
+
+    <div class="container body-content">
+        {% block content %}{% endblock %}
+    </div>
+
     <script src="/static/scripts/bootstrap.js"></script>
     <script src="/static/scripts/respond.js"></script>
     {% block scripts %}{% endblock %}
