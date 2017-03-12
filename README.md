@@ -3,4 +3,4 @@ The BiP (Web Pi) Switch Project is a switch for your smart home. The switch can 
 
 To set up the Raspberry Pi touchscreen, click [here](https://thepihut.com/blogs/raspberry-pi-tutorials/45295044-raspberry-pi-7-touch-screen-assembly-guide)
 
-For constructing the switch itself, I recommend using a relay board, but for what I did with the parts I had available to me, click [here](https://drive.google.com/file/d/0B_5uob2tliwgLVlPSWp1QTFxU28/view?usp=sharing)
+For constructing the switch itself, I recommend using a relay board, but for what I did with the parts I had available to me, click [here](https://drive.google.com/open?id=0B_5uob2tliwgWnp0ZFdnZXhIeDg)
